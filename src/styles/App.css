@@ -1,0 +1,30 @@
+.objects {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+    padding: 20px 0;
+    position: relative;
+}
+
+.logo {
+    font-weight: 900;
+    font-size: 20px;
+    color: black;
+}
+
+.logo span {
+    color: #4767D6;
+}
+
+.made-by {
+    font-weight: 500;
+    font-size: 14px;
+    color: #717171;
+}
+
+.made-by a {
+    color: #4767D6;
+    cursor: pointer;
+}

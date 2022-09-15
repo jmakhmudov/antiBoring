@@ -1,0 +1,84 @@
+.activity-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.activity-description {
+    display: flex;
+    align-items: center;
+    width: 50%;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.activity-description span {
+    color: #4767D6;
+}
+
+.activity-info h1 {
+    font-size: 75px;
+    width: 80vw;
+    text-align: center;
+}
+
+.activity-description p {
+    color: #717171;
+    font-size: 16px;
+}
+ 
+.activity-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.next-btn {
+    background-color: #4767D6;
+    color: white;
+    text-align: center;
+    border: none;
+    height: 32px;
+    width: 150px;
+    border-radius: 20px;
+    font-weight: 500;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.15s;
+}
+
+.next-btn:hover {
+    opacity: 0.8;
+}
+
+.next-btn:active {
+    opacity: 0.6;
+}
+
+@media screen and (max-width: 991px) {
+    /* стили для больших планшетов - начало */
+    
+}
+    
+@media screen and (max-width: 767px) {
+    .activity-description {
+        width: 80%;
+    }
+    
+}
+    
+@media screen and (max-width: 479px) {
+    .activity-description {
+        flex-direction: column;
+        height: 80px;
+    }
+
+    .activity-info h1 {
+        font-size: 55px;
+    }
+    
+}
