@@ -68,6 +68,10 @@
     .activity-description {
         width: 80%;
     }
+
+    .activity-info h1 {
+        font-size: 55px;
+    }
     
 }
     
@@ -78,7 +82,7 @@
     }
 
     .activity-info h1 {
-        font-size: 55px;
+        font-size: 40px;
     }
     
 }
