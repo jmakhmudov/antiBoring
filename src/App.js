@@ -1,5 +1,6 @@
 import './styles/App.css';
 import Activity from './components/Activity';
+import React from 'react';
 
 function App() {
   return (
