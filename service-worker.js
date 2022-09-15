@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/antiBoring/precache-manifest.db70c4226be9de14293d5c54222f824d.js"
+  "/antiBoring/precache-manifest.127d56723c76bf69394a81d8c72bd8b1.js"
 );
 
 workbox.clientsClaim();

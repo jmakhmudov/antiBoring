@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/antiBoring/static/js/runtime~main.eee9135b.js"
   },
   {
-    "revision": "df8e5217d2ea1c3136256f6f68d5fdb6",
+    "revision": "4756ea8d09972c4fa688428e543bf396",
     "url": "/antiBoring/index.html"
   }
 ];
