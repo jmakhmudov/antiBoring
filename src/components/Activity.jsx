@@ -6,7 +6,7 @@ export default function NumberInfo() {
     const [count, setCount] = React.useState(0)
 
     React.useEffect(function() {
-        fetch("http://www.boredapi.com/api/activity")
+        fetch("https://www.boredapi.com/api/activity")
             .then(res => res.json())
             .then(data => setActivity(data))
    }, [count])
