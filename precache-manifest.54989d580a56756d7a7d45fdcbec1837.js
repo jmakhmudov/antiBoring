@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "eb68c7edc877e59048bb",
+    "revision": "11e7a9463786f6961623",
     "url": "/antiBoring/static/css/main.b7e23190.chunk.css"
   },
   {
-    "revision": "eb68c7edc877e59048bb",
-    "url": "/antiBoring/static/js/main.eb68c7ed.chunk.js"
+    "revision": "11e7a9463786f6961623",
+    "url": "/antiBoring/static/js/main.11e7a946.chunk.js"
   },
   {
     "revision": "48dc1c1c87d8faf3dbc4",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/antiBoring/static/js/runtime~main.eee9135b.js"
   },
   {
-    "revision": "8395610b1ccd5a4f3f879b5618e1628b",
+    "revision": "15e8f177e1c1fcc5a4f60b898c531a99",
     "url": "/antiBoring/index.html"
   }
 ];
