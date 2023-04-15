@@ -1,13 +1,13 @@
 {
-  "main.css": "/antiBoring/static/css/main.b7e23190.chunk.css",
-  "main.js": "/antiBoring/static/js/main.11e7a946.chunk.js",
-  "main.js.map": "/antiBoring/static/js/main.11e7a946.chunk.js.map",
-  "static/js/1.48dc1c1c.chunk.js": "/antiBoring/static/js/1.48dc1c1c.chunk.js",
-  "static/js/1.48dc1c1c.chunk.js.map": "/antiBoring/static/js/1.48dc1c1c.chunk.js.map",
-  "runtime~main.js": "/antiBoring/static/js/runtime~main.eee9135b.js",
-  "runtime~main.js.map": "/antiBoring/static/js/runtime~main.eee9135b.js.map",
-  "static/css/main.b7e23190.chunk.css.map": "/antiBoring/static/css/main.b7e23190.chunk.css.map",
-  "index.html": "/antiBoring/index.html",
-  "precache-manifest.54989d580a56756d7a7d45fdcbec1837.js": "/antiBoring/precache-manifest.54989d580a56756d7a7d45fdcbec1837.js",
-  "service-worker.js": "/antiBoring/service-worker.js"
+  "files": {
+    "main.css": "/antiBoring/static/css/main.e95400f6.css",
+    "main.js": "/antiBoring/static/js/main.a1d98404.js",
+    "index.html": "/antiBoring/index.html",
+    "main.e95400f6.css.map": "/antiBoring/static/css/main.e95400f6.css.map",
+    "main.a1d98404.js.map": "/antiBoring/static/js/main.a1d98404.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e95400f6.css",
+    "static/js/main.a1d98404.js"
+  ]
 }
